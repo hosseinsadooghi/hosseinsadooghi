@@ -6,6 +6,11 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosseon.sadoghi@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15566470/hossein-sadooghi)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hosseinsadooghi)
+<a href="https://stackoverflow.com/users/15566470/hossein-sadooghi">
+  <img height="50" src="https://www.iconfinder.com/icons/287529/stackoverflow_icon"
+/>
+</a>
+
 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
