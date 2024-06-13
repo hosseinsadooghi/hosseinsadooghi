@@ -7,11 +7,11 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"
 />
 </a>
-<a href="https://stackoverflow.com/users/15566470/hossein-sadooghi">
+<a href="https://t.me/hosseinsadooghi">
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"
 />
 </a>
-<a href="[https://stackoverflow.com/users/15566470/hossein-sadooghi](https://t.me/hosseinsadooghi)">
+<a href="https://stackoverflow.com/users/15566470/hossein-sadooghi">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/stackoverflow-256.png"
 />
 </a>
