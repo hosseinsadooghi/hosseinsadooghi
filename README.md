@@ -1,4 +1,4 @@
-Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering student of IKIU University.
+Hi there👋. I'm Hossein, an Android developer and Computer Engineering student of IKIU University.
 
 🌱 I’m currently learning Flutter.
 
