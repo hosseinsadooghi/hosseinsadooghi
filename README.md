@@ -3,8 +3,7 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
 🌱 I’m currently learning Flutter.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:hosseon.sadoghi@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 
 ## Languages and Tools
