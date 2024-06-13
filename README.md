@@ -25,7 +25,11 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
 </p>
 
 ## Résumé
-![Résumé](https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+<p align="left">
+  <a href="[https://skillicons.dev](https://1drv.ms/b/c/d6c6bd928b979172/ESseHB78KSxAgKxX_1Mn9o0BnOdNqJrjjHRgMG3ThEL2Lw?e=kaDkRx)">
+    <img height="100" src="https://cdn4.iconfinder.com/data/icons/success-filloutline/64/portfolio-business_and_finance-personal_profile-resume-interface-256.png" />
+  </a>
+</p>
 
 ## Status
 ### Hossein Sadooghi's GitHub Stats
