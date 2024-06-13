@@ -33,17 +33,7 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
 
 ## Status
 ### Hossein Sadooghi's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-- **Total Stars Earned**: 113
-- **Total Commits (2024)**: 132
-- **Total PRs**: 8
-- **Total Issues**: 2
-- **Contributed to (last year)**: 2
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinsadooghi&show_icons=true&theme=default)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-- **Python**: 60.58%
-- **Java**: 24.71%
-- **Less**: 14.53%
-- **Dockerfile**: 0.17%
-- **Shell**: 0.01%
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinsadooghi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
