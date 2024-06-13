@@ -3,11 +3,16 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
 🌱 I’m currently learning Flutter.
 
 ## Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosseon.sadoghi@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15566470/hossein-sadooghi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hosseinsadooghi)
+<a href="mailto:hosseon.sadoghi@gmail.com">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"
+/>
+</a>
 <a href="https://stackoverflow.com/users/15566470/hossein-sadooghi">
-  <img height="50" src="https://www.iconfinder.com/icons/287529/stackoverflow_icon"
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"
+/>
+</a>
+<a href="[https://stackoverflow.com/users/15566470/hossein-sadooghi](https://t.me/hosseinsadooghi)">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/stackoverflow-256.png"
 />
 </a>
 
