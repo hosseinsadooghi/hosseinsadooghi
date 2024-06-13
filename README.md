@@ -3,7 +3,7 @@ Hi there👋. I'm Hossein, a Flutter Android developer and Computer Engineering 
 🌱 I’m currently learning Flutter.
 
 ## Connect with me
-<a href="mailto:hosseon.sadoghi@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox/140d656b8e54d660">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png"
 />
 </a>
