@@ -37,4 +37,4 @@ Hi there👋. I'm Hossein, an Android developer and Computer Engineering student
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosseinsadooghi&show_icons=true&theme=default)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinsadooghi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinsadoogh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
